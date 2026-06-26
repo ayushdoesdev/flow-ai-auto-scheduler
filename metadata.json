@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity Auto-Scheduler",
+  "description": "An automation tool with seamless calendar integration, AI-driven auto-prioritization, personalized productivity insights, real-time syncing, and a trial-subscription model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
